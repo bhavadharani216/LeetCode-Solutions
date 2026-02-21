@@ -7,10 +7,10 @@ This repository contains my solutions to various problems from LeetCode, coverin
 
 # About This Repository
 
-💻 Solutions are implemented mainly in Java
+💻 Solutions are implemented mainly in Java.
 
-📚 Covers fundamental to advanced DSA concepts
+📚 Covers fundamental to advanced DSA concepts.
 
-🔁 Regularly updated with new problems
+🔁 Regularly updated with new problems.
 
-🎯 Focused on improving problem-solving and coding skills
+🎯 Focused on improving problem-solving and coding skills.
